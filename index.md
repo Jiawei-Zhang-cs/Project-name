@@ -1,4 +1,4 @@
-欢迎来到我的世界！
+欢迎来到我的世界！、/n
 我的快乐我做主！
 ## Welcome to GitHub Pages
 
