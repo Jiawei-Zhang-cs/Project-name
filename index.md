@@ -1,3 +1,5 @@
+欢迎来到我的世界！
+我的快乐我做主！
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jiawei-Zhang-cs/Project-name/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
